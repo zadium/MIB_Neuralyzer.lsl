@@ -1,8 +1,12 @@
 # MIB Neuralyzer lsl
 
-MIB Neuralyzer for OpenSIM object and script
+MIB Neuralyzer for OpenSIM object and script, with actions (Aim, Open, Close, and Flash)
 
 ![MIB_N](https://github.com/user-attachments/assets/43b70bbf-89ab-4be2-b7f3-2637ab3ba43c)
+
+## Usage
+
+Click on it or from inventory right click on item after weareing it, it show menu dialog for action.
 
 ## Import
 

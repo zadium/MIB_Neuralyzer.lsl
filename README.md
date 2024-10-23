@@ -13,3 +13,12 @@ Export animation using [extended BVH addon](https://github.com/zaher/blender_bvh
 Copy script and animation to root object
 
 Have fun
+
+## Open Source ###
+
+https://github.com/zadium/MIB_Neuralyzer.lsl
+
+## License ##
+
+by-nc-sa [https://creativecommons.org/licenses/by-nc-sa/4.0/]
+

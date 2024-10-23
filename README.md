@@ -2,6 +2,8 @@
 
 MIB Neuralyzer for OpenSIM object and script
 
+![MIB_N](https://github.com/user-attachments/assets/43b70bbf-89ab-4be2-b7f3-2637ab3ba43c)
+
 ## Import
 
 Export it to Dae file, Import it into OpenSIM
